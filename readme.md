@@ -31,6 +31,6 @@ RhythmInn is a comprehensive hotel booking management system designed to streaml
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/rhythminn.git
+   git clone https://github.com/vineethpradeep/rhythminn.git
    cd rhythminn
    ```
