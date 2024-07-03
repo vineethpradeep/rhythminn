@@ -2,6 +2,15 @@
 
 RhythmInn is a comprehensive hotel booking management system designed to streamline hotel operations, including user accommodation, breakfast management, cabin reservations, check-in, and checkout. This system leverages modern web technologies to provide a robust, efficient, and scalable solution for hotel management.
 
+## App Access
+
+To access the app, please use the following credentials:
+
+- **Username**: welcome@rhythmInn.com
+- **Password**: Password123
+
+Thank you for using RhythmInn.
+
 ## Features
 
 - **User Accommodation**: Manage user stays with ease, including room assignments and duration tracking.
